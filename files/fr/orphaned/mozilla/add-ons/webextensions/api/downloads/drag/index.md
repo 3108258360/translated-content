@@ -1,6 +1,7 @@
 ---
 title: downloads.drag()
-slug: Mozilla/Add-ons/WebExtensions/API/downloads/drag
+slug: orphaned/Mozilla/Add-ons/WebExtensions/API/downloads/drag
+original_slug: Mozilla/Add-ons/WebExtensions/API/downloads/drag
 ---
 
 {{AddonSidebar}}

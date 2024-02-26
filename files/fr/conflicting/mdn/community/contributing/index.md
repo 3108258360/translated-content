@@ -1,6 +1,7 @@
 ---
 title: Processus de documentation
-slug: MDN/Contribute/Processes
+slug: conflicting/MDN/Community/Contributing
+original_slug: MDN/Contribute/Processes
 ---
 
 {{MDNSidebar}}
